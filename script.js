@@ -65,8 +65,8 @@ async function importerProduits() {
     alert("Importation terminée ! Vérifie ta console Firebase.");
 }
 
-// DÉCOMMENTE la ligne suivante pour remplir ta base, puis RE-COMMENTE la :
-// importerProduits();
+// DÉCOMMENTE la ligne suivante pour remplir ta base, puis RE-COMMENTE la 
+importerProduits();
 
 // --- LOGIQUE D'AFFICHAGE DU CATALOGUE ---
 async function fetchProducts() {
